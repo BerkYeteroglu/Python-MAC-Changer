@@ -1,4 +1,4 @@
-# Python-Mac-Changer
+# Python-MAC-Changer
 
 Bu Python kodu, kullanıcının belirtmiş olduğu ağ arayüzünde ve belirtmiş olduğu yeni MAC adresi ile arayüzün MAC adresini değiştirir. 
 Kod, kullanıcının argümanlarını doğru şekilde kullanıp kullanmadığını kontrol etmek için optparse kütüphanesini kullanır. 
